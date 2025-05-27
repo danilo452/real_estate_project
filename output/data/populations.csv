@@ -1,0 +1,119 @@
+state,city,market,value,latitude,longitude
+Ohio,Akron,"Akron,Ohio",702313.875,41.083064,-81.518485
+New York,Albany,"Albany,New York",912073.625,42.6511674,-73.754968
+New Mexico,Albuquerque,"Albuquerque,New Mexico",927299.1875,35.0841034,-106.650985
+Georgia,Atlanta,"Atlanta,Georgia",6410407.0,33.7544657,-84.3898151
+Georgia,Augusta,"Augusta,Georgia",637401.6875,33.4709714,-81.9748429
+Texas,Austin,"Austin,Texas",2563222.0,30.2711286,-97.7436995
+California,Bakersfield,"Bakersfield,California",922861.375,35.3738712,-119.019463
+Maryland,Baltimore,"Baltimore,Maryland",2861976.0,39.2908816,-76.610759
+Louisiana,Baton Rouge,"Baton Rouge,Louisiana",863716.125,30.4494155,-91.1869659
+Alabama,Birmingham,"Birmingham,Alabama",1193861.0,33.5206824,-86.8024326
+Idaho,Boise,"Boise,Idaho",849531.0,43.6166163,-116.200886
+Massachusetts,Boston,"Boston,Massachusetts",5037572.0,42.3554334,-71.060511
+New York,Buffalo,"Buffalo,New York",1160659.0,42.8867166,-78.8783922
+South Carolina,Charleston,"Charleston,South Carolina",873692.0625,32.7884363,-79.9399309
+North Carolina,Charlotte,"Charlotte,North Carolina",2874885.0,35.2272086,-80.8430827
+Tennessee,Chattanooga,"Chattanooga,Tennessee",588677.4375,35.0457219,-85.3094883
+Illinois,Chicago,"Chicago,Illinois",9585384.0,41.8755616,-87.6244212
+Ohio,Cincinnati,"Cincinnati,Ohio",2289891.0,39.1014537,-84.5124602
+Ohio,Cleveland,"Cleveland,Ohio",2075402.125,41.4996574,-81.6936772
+Colorado,Colorado Springs,"Colorado Springs,Colorado",778771.75,38.8339578,-104.825348
+South Carolina,Columbia,"Columbia,South Carolina",872542.8125,34.000754,-81.0352313
+Ohio,Columbus,"Columbus,Ohio",2232585.0,39.9622601,-83.0007065
+Texas,Dallas,"Dallas,Texas",8451689.0,32.7762719,-96.7968559
+Ohio,Dayton,"Dayton,Ohio",822001.0,39.7589478,-84.1916069
+Florida,Daytona Beach,"Daytona Beach,Florida",742477.4375,29.2108147,-81.0228331
+Colorado,Denver,"Denver,Colorado",3058438.0,39.7392364,-104.984862
+Iowa,Des Moines,"Des Moines,Iowa",717782.0,41.5868654,-93.6249494
+Michigan,Detroit,"Detroit,Michigan",4405862.0,42.3315509,-83.0466403
+North Carolina,Durham,"Durham,North Carolina",622329.75,35.996653,-78.9018053
+California,East Bay,"East Bay,California",2828526.0,33.6811328,-117.2592037
+Texas,El Paso,"El Paso,Texas",880781.375,31.7601164,-106.4870404
+Florida,Fort Lauderdale,"Fort Lauderdale,Florida",2043516.0,26.1223084,-80.1433786
+Florida,Fort Myers,"Fort Myers,Florida",863288.8125,26.640628,-81.8723084
+California,Fresno,"Fresno,California",1024891.0,36.7394421,-119.78483
+Michigan,Grand Rapids,"Grand Rapids,Michigan",1115383.0,42.9632425,-85.6678639
+North Carolina,Greensboro,"Greensboro,North Carolina",802678.5625,36.0726355,-79.7919754
+South Carolina,Greenville,"Greenville,South Carolina",1000029.0,34.851354,-82.3984882
+Pennsylvania,Harrisburg,"Harrisburg,Pennsylvania",616091.9375,40.2663107,-76.8861122
+Connecticut,Hartford,"Hartford,Connecticut",1239508.0,41.764582,-72.6908547
+Hawaii,Honolulu,"Honolulu,Hawaii",999400.875,21.304547,-157.855676
+Texas,Houston,"Houston,Texas",7797815.0,29.7589382,-95.3676974
+Alabama,Huntsville,"Huntsville,Alabama",544020.1875,34.729847,-86.5859011
+Indiana,Indianapolis,"Indianapolis,Indiana",2202396.0,39.7683331,-86.1583502
+California,Inland Empire,"Inland Empire,California",4752652.0,34.0687165,-117.4379685
+Mississippi,Jackson,"Jackson,Mississippi",562580.375,32.2998686,-90.1830408
+Florida,Jacksonville,"Jacksonville,Florida",1768788.0,30.3321838,-81.655651
+Missouri,Kansas City,"Kansas City,Missouri",2258224.0,39.100105,-94.5781416
+Texas,Killeen,"Killeen,Texas",510715.09375,31.1171441,-97.727796
+Tennessee,Knoxville,"Knoxville,Tennessee",958196.6875,35.9603948,-83.9210261
+Florida,Lakeland,"Lakeland,Florida",858051.0625,28.0394654,-81.9498042
+Pennsylvania,Lancaster,"Lancaster,Pennsylvania",564068.1875,40.0379958,-76.3056707
+Nevada,Las Vegas,"Las Vegas,Nevada",2406460.0,36.171697,-115.1463536
+Pennsylvania,Lehigh Valley,"Lehigh Valley,Pennsylvania",887031.6875,40.5947107,-75.5679786
+Kentucky,Lexington,"Lexington,Kentucky",534915.0,38.0464066,-84.4970393
+Arkansas,Little Rock,"Little Rock,Arkansas",770183.5,34.7465071,-92.2896267
+New York,Long Island,"Long Island,New York",2927646.0,40.851497,-73.0994297
+California,Los Angeles,"Los Angeles,California",9762948.0,34.0536909,-118.242766
+Kentucky,Louisville,"Louisville,Kentucky",1350573.0,38.2542376,-85.759407
+Wisconsin,Madison,"Madison,Wisconsin",709908.8125,43.074761,-89.3837613
+Texas,McAllen,"McAllen,Texas",917384.1875,26.204114,-98.2300605
+Florida,Melbourne,"Melbourne,Florida",660613.875,28.0785034,-80.6077908
+Tennessee,Memphis,"Memphis,Tennessee",1340339.0,35.1460249,-90.0517638
+Florida,Miami,"Miami,Florida",2846102.0,25.7741728,-80.19362
+Wisconsin,Milwaukee,"Milwaukee,Wisconsin",1575368.0,43.0386475,-87.9090751
+Minnesota,Minneapolis,"Minneapolis,Minnesota",3779742.0,44.9772995,-93.2654692
+California,Modesto,"Modesto,California",557300.125,37.6393419,-120.9968892
+South Carolina,Myrtle Beach,"Myrtle Beach,South Carolina",583815.8125,33.6956461,-78.8900409
+Tennessee,Nashville,"Nashville,Tennessee",2157857.0,36.1622767,-86.7742984
+Connecticut,New Haven,"New Haven,Connecticut",882221.8125,41.3082138,-72.9250518
+Louisiana,New Orleans,"New Orleans,Louisiana",1244424.0,29.9759983,-90.0782127
+New York,New York,"New York,New York",14736470.0,40.7127281,-74.0060152
+Virginia,Norfolk,"Norfolk,Virginia",1777965.0,36.8493695,-76.2899539
+New Jersey,Northern New Jersey,"Northern New Jersey,New Jersey",2703750.0,40.8582668,-74.0636703
+Arkansas,Northwest Arkansas,"Northwest Arkansas,Arkansas",632192.0,36.27981,-94.3025902
+Utah,Ogden,"Ogden,Utah",733774.5,41.2230048,-111.9738429
+Oklahoma,Oklahoma City,"Oklahoma City,Oklahoma",1501042.0,35.4729886,-97.5170536
+Nebraska,Omaha,"Omaha,Nebraska",1004144.0,41.2587459,-95.9383758
+California,Orange County,"Orange County,California",3172793.0,33.750631,-117.8722311
+Florida,Orlando,"Orlando,Florida",2956091.0,28.5421109,-81.3790304
+Florida,Palm Beach,"Palm Beach,Florida",1588950.0,26.6279798,-80.4494174
+Florida,Pensacola,"Pensacola,Florida",540673.5,30.421309,-87.2169149
+Pennsylvania,Philadelphia,"Philadelphia,Pennsylvania",6338086.0,39.9527237,-75.1635262
+Arizona,Phoenix,"Phoenix,Arizona",5206086.0,33.4484367,-112.074141
+Pennsylvania,Pittsburgh,"Pittsburgh,Pennsylvania",2346596.0,40.4416941,-79.9900861
+Florida,Port St. Lucie,"Port St. Lucie,Florida",558145.0625,27.2939333,-80.3503283
+Maine,Portland,"Portland,Maine",572136.0,43.6573605,-70.2586618
+Oregon,Portland,"Portland,Oregon",2540758.0,45.5202471,-122.674194
+Rhode Island,Providence,"Providence,Rhode Island",1703414.0,41.8239891,-71.4128343
+Utah,Provo,"Provo,Utah",763344.125,40.2337289,-111.6587085
+North Carolina,Raleigh,"Raleigh,North Carolina",1569524.0,35.7803977,-78.6390989
+Nevada,Reno,"Reno,Nevada",513246.875,39.5261206,-119.8126581
+Virginia,Richmond,"Richmond,Virginia",1399484.0,37.5385087,-77.43428
+New York,Rochester,"Rochester,New York",1080472.0,43.157285,-77.615214
+California,Sacramento,"Sacramento,California",2467006.0,38.5810606,-121.493895
+Missouri,Saint Louis,"Saint Louis,Missouri",2813324.0,38.6280278,-90.1910154
+Utah,Salt Lake City,"Salt Lake City,Utah",1305850.0,40.7596198,-111.886797
+Texas,San Antonio,"San Antonio,Texas",2770436.0,29.4246002,-98.4951405
+California,San Diego,"San Diego,California",3303579.0,32.7174202,-117.162772
+California,San Francisco,"San Francisco,California",1575755.0,37.7792588,-122.4193286
+California,San Jose,"San Jose,California",2000508.0,37.3361663,-121.890591
+Florida,Sarasota,"Sarasota,Florida",938524.5,27.3365805,-82.5308545
+Pennsylvania,Scranton,"Scranton,Pennsylvania",573987.125,41.4086874,-75.6621294
+Washington,Seattle,"Seattle,Washington",4160916.0,47.6038321,-122.330062
+Washington,Spokane,"Spokane,Washington",620175.125,47.6571934,-117.42351
+Massachusetts,Springfield,"Springfield,Massachusetts",630007.8125,42.1018764,-72.5886727
+Connecticut,Stamford,"Stamford,Connecticut",977179.3125,41.0534302,-73.5387341
+California,Stockton,"Stockton,California",817835.0,37.9577016,-121.290779
+New York,Syracuse,"Syracuse,New York",654143.1875,43.0481221,-76.1474244
+Florida,Tampa,"Tampa,Florida",3437390.0,27.9477595,-82.458444
+Ohio,Toledo,"Toledo,Ohio",601692.6875,41.6529143,-83.5378173
+Arizona,Tucson,"Tucson,Arizona",1082231.0,32.2228765,-110.974847
+Oklahoma,Tulsa,"Tulsa,Oklahoma",1061924.0,36.1563122,-95.9927516
+California,Ventura,"Ventura,California",835783.375,34.4458248,-119.0779359
+District of Columbia,Washington,"Washington,District of Columbia",6548283.0,38.8950368,-77.0365427
+Kansas,Wichita,"Wichita,Kansas",669038.8125,37.6922361,-97.3375448
+North Carolina,Winston,"Winston,North Carolina",706673.375,36.0998131,-80.2440518
+Massachusetts,Worcester,"Worcester,Massachusetts",1001417.0,42.2625621,-71.8018877
+Ohio,Youngstown,"Youngstown,Ohio",533600.8125,41.1035786,-80.6520161
